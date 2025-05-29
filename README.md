@@ -97,8 +97,9 @@ setInterval(() => {
 - Real-Time Chat Box with Scrollable History
 - Profile Picture Display
 
-![Chat UI](Screenshot 1.png)
-![Chat UI](Screenshot 1.png)
+![Chat UI](Screenshot1.png)
+![Chat UI](Screenshot1.png)
+![Chat UI](chat.jpeg)
 
 ---
 
