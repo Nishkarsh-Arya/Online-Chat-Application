@@ -98,6 +98,8 @@ setInterval(() => {
 - Profile Picture Display
 
 ![Chat UI](Project_Files/screenshot1.png)
+
+
 ![Chat UI](Project_Files/screenshot2.png)
 
 
